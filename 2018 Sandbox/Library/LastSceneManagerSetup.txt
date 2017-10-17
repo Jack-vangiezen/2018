@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/tank.unity
+  isLoaded: 1
+  isActive: 1
